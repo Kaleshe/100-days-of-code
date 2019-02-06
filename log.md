@@ -6,5 +6,3 @@
 
 **Thoughts:** I find that it is harder for me to grasp things when they are too abstract. I need to practice using objects and arrays in real-life scenarios
 
-#**Link to work:** [Calculator App](http://www.example.com)
-

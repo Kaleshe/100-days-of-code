@@ -2,9 +2,9 @@
 
 ### Day 1: February 06, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Refreshed knowledge on objects and multi-dimensional arrays in JavaScript
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I find that it is harder for me to grasp things when they are too abstract. I need to practice using objects and arrays in real-life scenarios
 
-**Link to work:** [Calculator App](http://www.example.com)
+#**Link to work:** [Calculator App](http://www.example.com)
 
